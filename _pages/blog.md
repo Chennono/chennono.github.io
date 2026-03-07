@@ -17,8 +17,6 @@ This page collects occasional notes and short posts on:
 
 ## Posts
 
-Coming soon.
-
 <ul>
 {% for post in site.posts %}
   <li>
