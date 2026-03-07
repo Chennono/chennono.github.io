@@ -12,7 +12,7 @@ redirect_from:
 
 👋I am a **PhD researcher  in the [MIND Team](https://team.inria.fr/mind/) at CEA / Inria**, based in Paris, and enrolled at **Université Paris-Saclay**. My PhD is supervised by **Dr. Philippe Ciuciu** and **Dr. Chaithya G. R.**, focusing on advanced methods for **functional brain MRI**.
 
-My research centers on **deep learning for accelerated whole-brain, high-resolution functional MRI reconstruction**, with a particular emphasis on combining self-supervised learning and transfer learning with physical modeling of MRI acquisition. My main research interests include:
+My research centers on **deep learning for accelerated whole-brain, high-resolution functional MRI reconstruction**, with a particular emphasis on combining self-supervised learning and transfer learning with physical modeling of MRI reconstruction. My main research interests include:
 
 - **Deep learning-based reconstruction** from undersampled medical imaging data
 - **Joint optimization of non-Cartesian trajectories and physics-driven reconstruction**
@@ -26,7 +26,8 @@ Before starting my PhD in France, I worked on spectral CT and low-field MRI Reco
 
 You can find my **[CV](/files/CV-Qiaoxin.pdf)**, my **[LinkedIn](https://www.linkedin.com/in/qiaoxin-li-37a177310/)**, and **[GitHub](https://github.com/joosenli)** here.
 
-Beyond research, I enjoy a variety of activities🧩 that keep my life balanced and inspiring.
+🧩🧩🧩
+Beyond research, I enjoy a variety of activities that keep my life balanced and inspiring.
 
 🏃‍♂️I am passionate about **long-distance running** and have participated in several marathons, including the **Shenzhen Marathon**, **Qinhuangdao Marathon**, and multiple half marathons such as **Nanshan**, **Huangpu**, and **Qingyuan**. Running gives me a strong sense of rhythm and vitality — it reminds me of the dynamics and beating of life itself.
 
