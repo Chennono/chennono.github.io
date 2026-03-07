@@ -21,4 +21,4 @@ main:
     url: "/#-internships"
 
   - title: "Blog"
-    url: "/#-blog"
+    url: "/blog/"

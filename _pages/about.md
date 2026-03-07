@@ -81,7 +81,7 @@ Outside of these, I enjoy **road trips and driving**🚗, **traveling**🌍, and
 
 ---
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 
 - **2026** — Educational Stipend Award, **ISMRM 2026**, Cape Town  
 - **2024** — Best Paper Finalist (Top 2%), **ISBI 2024**, Athens  
@@ -92,7 +92,7 @@ Outside of these, I enjoy **road trips and driving**🚗, **traveling**🌍, and
 
 ---
 
-# 📖 Educations
+# 🎓 Educations
 
 **PhD in Medical Imaging**  
 Université Paris-Saclay, Saclay, France  
@@ -105,7 +105,7 @@ Thesis:
 
 **M.Eng in Computer Science**  
 University of Chinese Academy of Sciences  
-Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences  
+<!-- Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences   -->
 *2022 – 2025*
 
 Thesis:  
@@ -141,7 +141,7 @@ Worked on reconstruction of **11.7T high-resolution fMRI data**.
 
 <span class='anchor' id='blog'></span>
 
-# ✏️ Blog
+<!-- # ✏️ Blog
 
 I occasionally write about:
 
@@ -150,4 +150,4 @@ I occasionally write about:
 - 🍳 Cooking
 - ✈️ Travel
 
-Posts will appear here soon.
+Posts will appear here soon. -->
