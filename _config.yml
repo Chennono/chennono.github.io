@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiaoxin LI"
-description              : "PhD Researcher in Neuroimaging, Deep Learning and happy life."
+description              : "PhD Researcher in Neuroimaging, Deep Learning and Happy Life."
 repository               : "joosenli/joosenli.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :
 author:
   name             : "Qiaoxin LI"
   avatar           : "images/profile.jpg"
-  bio              : "PhD Researcher in Neuroimaging, Deep Learning and happy life"
+  bio              : "PhD Researcher at CEA / Inria MIND Team"
   location         : "Paris, France"
-  employer         : "CEA / Inria, MIND Team"
+  employer         : "CEA, MIND Team"
   pubmed           :
   googlescholar    :
   email            : "joosenli@outlook.com"
