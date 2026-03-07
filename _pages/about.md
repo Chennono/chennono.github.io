@@ -24,9 +24,7 @@ I am also passionate about **open-source scientific software** and actively cont
 
 Before starting my PhD in France, I worked on spectral CT and low-field MRI Reconstruction at the Shenzhen Institutes of Advanced Technology (Chinese Academy of Sciences), supervised by Dr. Dong Liang and Dr. Yinsheng Li.
 
-You can find my **[CV](/files/CV-Qiaoxin.pdf)**,  
-my **[LinkedIn](https://www.linkedin.com/in/qiaoxin-li-37a177310/)**,  
-and **[GitHub](https://github.com/joosenli)** here.
+You can find my **[CV](/files/CV-Qiaoxin.pdf)**, my **[LinkedIn](https://www.linkedin.com/in/qiaoxin-li-37a177310/)**, and **[GitHub](https://github.com/joosenli)** here.
 
 Beyond research, I enjoy a variety of activities🧩 that keep my life balanced and inspiring.
 

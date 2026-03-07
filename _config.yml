@@ -24,7 +24,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Qiaoxin LI"
-  avatar           : "images/profile.jpg"
+  avatar           : "/images/profile.jpg"
   bio              : "PhD Researcher at CEA / Inria MIND Team"
   location         : "Paris, France"
   employer         : "CEA, MIND Team"
