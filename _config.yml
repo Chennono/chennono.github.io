@@ -9,6 +9,8 @@
 title                    : "Qiaoxin LI"
 description              : "Researcher in Neuroimaging, Deep Learning and Happy Life."
 repository               : "joosenli/joosenli.github.io"
+url                      : "https://joosenli.github.io"
+baseurl                  : "" # the subpath of /blog
 google_scholar_stats_use_cdn : true
 
 # google analytics
