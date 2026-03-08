@@ -50,7 +50,7 @@ Outside of these, I enjoy **road trips and driving**🚗, **traveling**🌍, and
 
 # 📝 Publications
 
-### MRI Imaging
+### MR Imaging
 
 **DD-INR: Dynamics-Driven Implicit Neural Representation for Accelerated Whole-Brain Functional MRI Reconstruction**  
 **Qiaoxin Li**, Caini Pan, Pierre-Antoine Comby, Chaithya Giliyar Radhakrishna, Philippe Ciuciu  
