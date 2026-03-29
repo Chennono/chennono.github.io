@@ -10,7 +10,7 @@ author_profile: true
 
 This page collects occasional notes and short posts on:
 
-- 🧠deep learning in medical imaging
+- 🧠Deep Learning in Medical Imaging
 - 📷 Photography
 - 🍳 Cooking
 - ✈️ Travel
