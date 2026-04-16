@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chen WANG"
-description              : "Researcher in digital and cultural economics."
-repository               : "chennono/chennono.github.io"
-url                      : "https://chennono.github.io"
+title                    : "Qiaoxin LI"
+description              : "Researcher in Neuroimaging， Deep Learning, and a joyful life —— driven by the optimism and passion that never fade."
+repository               : "joosenli/joosenli.github.io"
+url                      : "https://joosenli.github.io"
 baseurl                  : "" # the subpath of /blog
 google_scholar_stats_use_cdn : true
 
@@ -23,14 +23,14 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Chen WANG"
+  name             : "Qiaoxin LI"
   avatar           : "/images/profile.jpg"
   bio              : "PhD Researcher at CEA / Inria MIND Team"
   location         : "Paris, France"
-  employer         : "CsEA, MIND Team"
+  employer         : "CEA, MIND Team"
   pubmed           :
   googlescholar    :
-  email            : "chen.karine.wang@gmail.com"
+  email            : "joosenli@outlook.com"
   researchgate     :
   uri              :
   bitbucket        :
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chennono"
+  github           : "joosenli"
   google_plus      :
   keybase          :
   instagram        :
