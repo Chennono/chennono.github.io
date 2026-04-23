@@ -11,7 +11,7 @@ description              : "Researcher in digital and cultural economics."
 repository               : "chennono/chennono.github.io"
 url                      : "https://chennono.github.io"
 baseurl                  : "" # the subpath of /blog
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :
